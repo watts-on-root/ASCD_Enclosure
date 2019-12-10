@@ -31,3 +31,4 @@ Due to the 12V requirement for the fan, I feed 12V into the onboard barrel jack 
 
 You will also need some jumper wires or similar to connect the display as the onboard connector will no longer reach.
 
+For completeness, I have also included the stl file for the bezel, although it is of no use for the standard build.
