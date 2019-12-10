@@ -5,7 +5,7 @@ For more information about Bretts design, see [https://www.vortexit.co.nz/arduin
 
 I created an enclosure for my own dual display varient of the unit, but it is compatible with the standard single display version using only the left and centre display supports.
 
-[](Images/8ch_Tester3.jpg)
+[](./Images/8ch_Tester3.jpg)
 [](Images/8ch_Tester1.jpg)
 [](Images/Cad_Front.png)
 [](Images/Cad_Rear.png)
